@@ -8,6 +8,13 @@
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <br>
 <br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [10 ways to optimize a React codebase](https://zishantareque.hashnode.dev/10-ways-to-optimize-a-react-codebase)
+- [Working with Typescript Enums](https://zishantareque.hashnode.dev/working-with-typescript-enums)
+- [Optimizing API calls in JavaScript](https://zishantareque.hashnode.dev/optimizing-api-calls-in-javascript)
+- [Conditional Rendering in JSX: Quirks with && operator](https://zishantareque.hashnode.dev/conditional-rendering-in-jsx-quirks-with-operator)
+- [My Top 10 Essential JavaScript ES6 and Beyond Syntax Shortcuts for Everyday Coding](https://zishantareque.hashnode.dev/my-top-10-essential-javascript-es6-and-beyond-syntax-shortcuts-for-everyday-coding)
 
 
 
