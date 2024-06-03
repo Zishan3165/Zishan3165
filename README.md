@@ -14,6 +14,15 @@
 <br>
 <br>
 
+## Personal Projects
+- [Audit Log App - Backend (Express, Mongo)](https://github.com/Zishan3165/audit-log-app-backend)
+- [Audit Log App - Frontend (React, Typescript, Webpack)](https://github.com/Zishan3165/audit-log-app-backend)
+- [Digital Wallet App - Frontend (NextJS, Typescript)](https://github.com/Zishan3165/digital-wallet-app)
+- [Health Monitoring App - React Native, Firebase (With Push Notifications)](https://github.com/Zishan3165/health-monitoring-app)
+- [Pizza Ordering App - React Native, Graphql](https://github.com/Zishan3165/pizza-restaurant-app)
+
+<br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [10 ways to optimize a React codebase](https://zishantareque.hashnode.dev/10-ways-to-optimize-a-react-codebase)
